@@ -1,0 +1,44 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color #4a4a4a;
+}
+
+.navbar {
+    padding: 1rem 0;
+    background-color: #e8b1b1;
+
+}
+    
+    .navbar .navbar-brand, .navbar a {
+      color: white !important;
+      font-weight: 500;
+    }
+    .navbar a:hover {
+      text-decoration: underline;
+    }
+.hero-section {
+    background: url('star\ header.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: rgb(23, 2, 93);
+}
+
+.info-section {
+    background-color: #abdfff;
+}
+
+.community-love img {
+    width: 100%;
+    border-radius: 5%;
+    margin-bottom: 15px;
+}
+
+.commission-section {
+    background-color: #9ace79;
+    color: #4a4a4a;
+}
+
+footer {
+    background-color: #f7d0d0;
+    color: #4a4a4a;
+}
